@@ -8,7 +8,7 @@ Passionate Data Analyst | Data Engineer | Data Scientist
 - **Languages & Frameworks:** Python (Numpy, Pandas, Matplotlib, Tensorflow, Sci-kit Learn), SQL (MySQL, PostgreSQL, Microsoft SQL SMS), R, Apache Spark
 - **Data Visualization:** Qlik Sense, PowerBI, Tableau, Excel
 - **Data Engineering:** AWS (Redshift, DMS, S3, EC2, Lambda), Apache Airflow
-- **General Knowledge:** Algorithms, Data Structures, Object-Oriented Programming, Data Models
+- **General Knowledge:** Algorithms, Data Structures, Object-Oriented Programming, Data Models, A/B Testing
 - **Agile Methodologies:** Scrum, Kanban
 
 ## 🌱 Always Learning
