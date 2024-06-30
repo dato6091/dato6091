@@ -1,6 +1,6 @@
 # Hello, I'm Daniel
 
-Passionate Data Analyst | Data Engineer | Data Scientist
+Passionate about the world of Data Science
 
 🚀 Welcome to my GitHub! I'm a dedicated data professional with a strong background in crafting robust data solutions and driving business insights. Currently, I am contributing my skills to [Retail inMotion](https://www.retailinmotion.com/), where I specialize in developing scalable data and reporting solutions for the global airline industry.
 
